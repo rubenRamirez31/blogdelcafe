@@ -78,11 +78,11 @@ img {
 }
 
 /*Header*/
-.webp, .header {
+.webp .header {
     background-image: url(../img/banner.webp);
 }
 
-.no-webp, .header {
+.no-webp .header {
     background-image: url(../img/banner.jpg);
 }
 
